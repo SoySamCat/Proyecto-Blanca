@@ -8,19 +8,12 @@ Aqui todo el listado de cosas por hacer al proyecto, cambios en el tiempo, soluc
 - Consumo menor a los 100mb de ram en idle ( solo con los procesos basicos para arranque del sistema )
 - Nueva apariencia al standard de PuppyLinux
 ## Cosas por definir ##
-- ❓ Que navegador usar
-  - firefox sin marco de ventana del sistema (estilo chrome)
+- ❓ Que navegador usar 
 - ❓ Programas que no iran
-  - gnumeric
-  - abiword
-  - pup-advert-blocker (desactualizado)
-  - audioplayer (teniendo VLC, se repiten programas similares)
-  
-  
 - ❓ Nuevos programas 
   - w3m
   - w3m-img
-  - calculadora de bits (o actualizar gMeasures)
+  - calculadora de bits
   - htop
 - ❓ Temas de ventanas
   - vimix dark theme
@@ -32,6 +25,7 @@ Aqui todo el listado de cosas por hacer al proyecto, cambios en el tiempo, soluc
 - ❓ Conky o GkrellM
 - ❓ Enlaces a soporte técnico
 - ❓ Fuentes 
+- ❓ Creación de categoría "cloud" en la que incluir todos los links que consumen datos de internet 
 - ❓ Música inicial
   - Música inicial breve
   - Sin música inicial
@@ -49,10 +43,11 @@ Aqui todo el listado de cosas por hacer al proyecto, cambios en el tiempo, soluc
 - Temas de iconos
 - Imágenes en avisos del sistema modificados con estilo "Polar-Puppy-Bear"
 - Pantalla de boot y de menú extendido en español
-- Creación de una página web html ligera de arranque inicial SIN enlaces rotos.
+- Modificación de la página web html ligera de arranque inicial SIN enlaces rotos.
   - revisión de página web inicial estándard, control de iconos y enlaces rotos
   - sustitución con links más actuales y estables (que se actualicen con regularidad en la página de destino)
   - enlace a segunda página interna que contenga links a servicios cloud (estilo start.me)
+- Creación de categoría "cloud"
 - Creación de categoría "social"
   - Iconos a redes sociales (iconos con links web que arrancan desde el navegador predeterminado)
     - Facebook
@@ -69,8 +64,6 @@ Aqui todo el listado de cosas por hacer al proyecto, cambios en el tiempo, soluc
   - Link a _freemusicarchive.org_
   - Link a _last.fm/music/Free_
   - ... (*similares*)
-
-
 
 
 Cuando todo esto esté superado, cambiará a estado Beta.
