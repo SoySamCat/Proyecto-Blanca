@@ -27,14 +27,14 @@ Aqui todo el listado de cosas por hacer al proyecto, cambios en el tiempo, soluc
 - Fuentes 
 
 ## Cosas por agregar ##
-- Control de temperatura del cpu (listo)
-- Control de brillo (listo)
-- Monitor de usb insertadas (listo)
-- Control del estado del disco duros (listo)
-- bugfixes apagado (listo)
-- fix de cups (listo)
-- fusilli rotini preconfigurado (listo)
-- Administrador Samba (listo)
+- ✔️ Control de temperatura del cpu (listo)
+- ✔️ Control de brillo (listo)
+- ✔️ Monitor de usb insertadas (listo)
+- ✔️ Control del estado del disco duros (listo)
+- ✔️ bugfixes apagado (listo)
+- ✔️ fix de cups (listo)
+- ✔️ fusilli rotini preconfigurado (listo)
+- ✔️ Administrador Samba (listo)
 - Fondos de escritorio
 - Fondos de boot
 - Temas de iconos
