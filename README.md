@@ -56,8 +56,13 @@ Aqui todo el listado de cosas por hacer al proyecto, cambios en el tiempo, soluc
 - Links a programas de mensajería (que arrancan desde el navegador predeterminado)
   - Telegram web
   - Whatsapp web
-    
-    
+- (en categoría música)
+  - Link a _SoundCloud_
+  - Link a _Spotify_
+  - Link a _freemusicarchive.org_
+  - Link a _last.fm/music/Free_
+  - ... (*similares*)
+
 
 
 
