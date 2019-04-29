@@ -2,7 +2,7 @@
 Un remaster de PuppyLinux con escritorio y kernel diferentes
 
 Aqui todo el listado de cosas por hacer al proyecto, cambios en el tiempo, solucion a problemas, alphas y betas releases, etc
-## Por menores del sistema ## 
+## Pormenores del sistema ## 
 - Kernel dpupbuster 4.19.20
 - Escritorio XFCE y Fusilli ( fork de compiz muy basico)
 - Consumo menor a los 100mb de ram en idle ( solo con los procesos basicos para arranque del sistema )
@@ -11,10 +11,19 @@ Aqui todo el listado de cosas por hacer al proyecto, cambios en el tiempo, soluc
 - Que navegador usar 
 - Programas que no iran
 - Nuevos programas 
-- Temas de ventanas e iconos
-- Wbar o cairo dock
+  *w3m
+  *w3m-img
+  *calculadora de bits
+  *htop
+- Temas de ventanas
+  *vimix dark theme
+- Temas de iconos
+  *beos
+- Temas de puntero
+  *polar cursors
+- Wbar o cairo dock (diría wbar, que consume menos recursos al parecer)
 - Conky o GkrellM
-- Enlaces a soporte tecnico
+- Enlaces a soporte técnico
 - Fuentes 
 
 ## Cosas por agregar ##
@@ -27,7 +36,14 @@ Aqui todo el listado de cosas por hacer al proyecto, cambios en el tiempo, soluc
 - fusilli rotini preconfigurado (listo)
 - Administrador Samba (listo)
 - Fondos de escritorio
+- Fondos de boot
 - Temas de iconos
+- Imágenes en avisos del sistema modificados con estilo "Polar-Puppy-Bear"
+- Pantalla de boot y de menú extendido en español
+- Creación de una página web html ligera de arranque inicial SIN enlaces rotos.
+  *revisión de página web inicial estándard, control de iconos y enlaces rotos
+  *sustitución con links más actuales y estables (que se actualicen con regularidad en la página de destino)
+  *link a segunda página interna que contenga links a servicios cloud (estilo start.me)
 
 
 
