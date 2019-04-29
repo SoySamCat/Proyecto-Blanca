@@ -8,24 +8,26 @@ Aqui todo el listado de cosas por hacer al proyecto, cambios en el tiempo, soluc
 - Consumo menor a los 100mb de ram en idle ( solo con los procesos basicos para arranque del sistema )
 - Nueva apariencia al standard de PuppyLinux
 ## Cosas por definir ##
-- Que navegador usar 
-- Programas que no iran
-- Nuevos programas 
+- ❓ Que navegador usar 
+- ❓ Programas que no iran
+- ❓ Nuevos programas 
   - w3m
   - w3m-img
   - calculadora de bits
   - htop
-- Temas de ventanas
+- ❓ Temas de ventanas
   - vimix dark theme
-- Temas de iconos
+- ❓ Temas de iconos
   - beos
-- Temas de puntero
+- ❓ Temas de puntero
   - polar cursors
-- Wbar o cairo dock (diría wbar, que consume menos recursos al parecer)
-- Conky o GkrellM
-- Enlaces a soporte técnico
-- Fuentes 
-
+- ❓ Wbar o cairo dock (diría wbar, que consume menos recursos al parecer)
+- ❓ Conky o GkrellM
+- ❓ Enlaces a soporte técnico
+- ❓ Fuentes 
+- ❓ Música inicial
+  - Música inicial breve
+  - Sin música inicial
 ## Cosas por agregar ##
 - ✔️ Control de temperatura del cpu (listo)
 - ✔️ Control de brillo (listo)
@@ -44,11 +46,16 @@ Aqui todo el listado de cosas por hacer al proyecto, cambios en el tiempo, soluc
   - revisión de página web inicial estándard, control de iconos y enlaces rotos
   - sustitución con links más actuales y estables (que se actualicen con regularidad en la página de destino)
   - enlace a segunda página interna que contenga links a servicios cloud (estilo start.me)
-- Categoría cloud
-  - Iconos a servicios cloud (que arrancan desde el navegador predeterminado)
-    - Telegram web
-    - Whatsapp web
-    - Gmail
+- Creación de categoría "social"
+  - Iconos a redes sociales (iconos con links web que arrancan desde el navegador predeterminado)
+    - Facebook
+    - Instagram
+    - Twitter
+    - Linkedin
+    - Pinterest
+- Links a programas de mensajería (que arrancan desde el navegador predeterminado)
+  - Telegram web
+  - Whatsapp web
     
     
 
