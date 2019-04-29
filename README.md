@@ -8,12 +8,19 @@ Aqui todo el listado de cosas por hacer al proyecto, cambios en el tiempo, soluc
 - Consumo menor a los 100mb de ram en idle ( solo con los procesos basicos para arranque del sistema )
 - Nueva apariencia al standard de PuppyLinux
 ## Cosas por definir ##
-- ❓ Que navegador usar 
+- ❓ Que navegador usar
+  - firefox sin marco de ventana del sistema (estilo chrome)
 - ❓ Programas que no iran
+  - gnumeric
+  - abiword
+  - pup-advert-blocker (desactualizado)
+  - audioplayer (teniendo VLC, se repiten programas similares)
+  
+  
 - ❓ Nuevos programas 
   - w3m
   - w3m-img
-  - calculadora de bits
+  - calculadora de bits (o actualizar gMeasures)
   - htop
 - ❓ Temas de ventanas
   - vimix dark theme
