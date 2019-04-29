@@ -11,16 +11,16 @@ Aqui todo el listado de cosas por hacer al proyecto, cambios en el tiempo, soluc
 - Que navegador usar 
 - Programas que no iran
 - Nuevos programas 
-  - *w3m
-  - *w3m-img
-  - *calculadora de bits
-  - *htop
+  - w3m
+  - w3m-img
+  - calculadora de bits
+  - htop
 - Temas de ventanas
-  - *vimix dark theme
+  - vimix dark theme
 - Temas de iconos
-  - *beos
+  - beos
 - Temas de puntero
-  - *polar cursors
+  - polar cursors
 - Wbar o cairo dock (diría wbar, que consume menos recursos al parecer)
 - Conky o GkrellM
 - Enlaces a soporte técnico
@@ -41,9 +41,16 @@ Aqui todo el listado de cosas por hacer al proyecto, cambios en el tiempo, soluc
 - Imágenes en avisos del sistema modificados con estilo "Polar-Puppy-Bear"
 - Pantalla de boot y de menú extendido en español
 - Creación de una página web html ligera de arranque inicial SIN enlaces rotos.
-  - *revisión de página web inicial estándard, control de iconos y enlaces rotos
-  - *sustitución con links más actuales y estables (que se actualicen con regularidad en la página de destino)
-  - *link a segunda página interna que contenga links a servicios cloud (estilo start.me)
+  - revisión de página web inicial estándard, control de iconos y enlaces rotos
+  - sustitución con links más actuales y estables (que se actualicen con regularidad en la página de destino)
+  - enlace a segunda página interna que contenga links a servicios cloud (estilo start.me)
+- Categoría cloud
+  - Iconos a servicios cloud (que arrancan desde el navegador predeterminado)
+    - Telegram web
+    - Whatsapp web
+    - Gmail
+    
+    
 
 
 
